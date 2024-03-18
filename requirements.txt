@@ -1,0 +1,7 @@
+pyaudio
+pvporcupine
+numpy
+requests
+whisper
+TTS
+winsound
